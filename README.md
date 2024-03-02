@@ -14,3 +14,4 @@
 
 
 ## Projects:
+* Explorando a Transformação Logarítimica na Regularização dos Dados (scale_log.ipynb). [Matéria no Medium](http://surl.li/rdnso)
