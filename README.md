@@ -1,4 +1,4 @@
-# Data_Science_Experiments
+# Regularização de Dados
 
 <p align="center">
   <img src="https://github.com/VictorFrancheto/My_Projects/blob/main/machine.jpg" >
