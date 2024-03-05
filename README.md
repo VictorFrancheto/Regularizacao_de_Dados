@@ -11,6 +11,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/victor-hugo-francheto-a600501a1/)
+* [Medium](https://medium.com/@victor.h.f.francheto)
 
 
 ## Projects:
