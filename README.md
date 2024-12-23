@@ -1,5 +1,5 @@
 # Regularização de Dados
-
+Repositório voltado a explicar e aplicar a regularização logarítmica.
 <p align="center">
   <img src="https://github.com/VictorFrancheto/My_Projects/blob/main/machine.jpg" >
 </p>
